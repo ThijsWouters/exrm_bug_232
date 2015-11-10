@@ -3,7 +3,7 @@ defmodule ExrmBug_232.Mixfile do
 
   def project do
     [app: :exrm_bug_232,
-     version: "0.0.1",
+     version: "0.0.2",
      elixir: "~> 1.1",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
