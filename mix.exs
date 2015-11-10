@@ -27,6 +27,8 @@ defmodule ExrmBug_232.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [
+      { :exrm, git: "https://github.com/bitwalker/exrm.git" }
+    ]
   end
 end
