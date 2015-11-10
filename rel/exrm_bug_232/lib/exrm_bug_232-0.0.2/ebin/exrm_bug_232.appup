@@ -1,0 +1,7 @@
+{"0.0.2",
+ [{"0.0.1",
+   [{add_module,'Elixir.String.Chars.ExrmBug_232'},
+    {load_module,'Elixir.ExrmBug_232'}]}],
+ [{"0.0.1",
+   [{delete_module,'Elixir.String.Chars.ExrmBug_232'},
+    {load_module,'Elixir.ExrmBug_232'}]}]}.
